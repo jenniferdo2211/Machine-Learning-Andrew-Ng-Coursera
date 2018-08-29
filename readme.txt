@@ -1,1 +1,1 @@
-An online course for machine learning
+An online course for Machine Learning
