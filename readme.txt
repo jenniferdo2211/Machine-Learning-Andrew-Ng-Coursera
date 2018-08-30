@@ -1,1 +1,1 @@
-An online course for Machine Learning
+A course of Machine Learning from Stanford University
