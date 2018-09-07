@@ -1,0 +1,25 @@
+	Hi there, 
+
+We have a lot of new content to announce this week! Starting with 6 new courses covering topics such as machine learning, finance, and marketing. We’re also happy to announce 5 new practice pools are now available on mobile and desktop. And finally, a new R Project on analyzing athletics data is also available!
+
+Learn:
+•	Machine Learning for Finance in Python
+•	Introduction to PySpark
+•	Statistical Simulation in Python
+•	Marketing Analytics in R: Choice Modeling
+•	Building Dashboards with flexdashboard (R Course)
+•	Bayesian Modeling with RJAGS (R Course)
+
+Practice:
+•	Introduction to the Tidyverse
+•	Importing Data in R (Part 1)
+•	Importing Data in R (Part 2)
+•	Importing Data in Python (Part 1)
+•	Importing Data in Python (Part 2)
+
+Apply:
+•	Scout Your Athletics Fantasy Team (R Project)
+
+Happy learning!
+
+The DataCamp Team	
